@@ -13,3 +13,4 @@ William J. Dally, R. Curtis Harting, and Tor M. Aamodt.
 We provide those examples in EDA playground (and in source in this repo).
 
  * [Section 3.6](https://www.edaplayground.com/x/3HEv)
+ * [Exercise 3.27](https://www.edaplayground.com/x/4Mng)
