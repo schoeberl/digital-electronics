@@ -16,3 +16,4 @@ We provide those examples in EDA playground (and in source in this repo).
  * [Exercise 3.27](https://www.edaplayground.com/x/4Mng)
  * [Section 7.1.6](https://www.edaplayground.com/x/2UNt)
  * [Exercise 7.2](https://www.edaplayground.com/x/zfw)
+ * [Popcount](https://www.edaplayground.com/x/2XQB)
